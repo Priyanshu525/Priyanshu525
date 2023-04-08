@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A Passionate Web Developer : & Programmer;</h3>
-
+<img align="right" src="https://in.pinterest.com/pin/1025554146374681167/" alt="pic">
 - 📫 How to reach me **ps0153115@gmail.com**
 
 - ⚡ Fun fact **I Am Focused ⚡**
