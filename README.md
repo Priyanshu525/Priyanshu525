@@ -5,7 +5,7 @@
 <h2>⚡I Am Focused On Myself⚡</h2>
 
 <h2 align="center">Connect with me:</h2>
-<p align="center">
+<p >
 <a align="center href="https://twitter.com/priyanshu0525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu0525" height="50" width="40" /></a>&nbsp&nbsp&nbsp
 <a align="center" href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-sharma-3b5349253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-sharma-3b5349253" height="50" width="40" /></a>&nbsp&nbsp&nbsp
 <a align="center href="https://instagram.com/priyanshuuu_112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshuuu_112" height="50" width="40" /></a>
